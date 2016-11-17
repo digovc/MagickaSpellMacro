@@ -1,0 +1,13 @@
+# Spell List:
+
+
+Cancelar: sd rd ru su
+Escuro circular: e sd su
+Armadura de pedra: e d d d d md mu
+Cura: w w w w w md tm tm tm mu
+Círculo de morte: e d d d s s sd md mu su
+Raio gelo: a s r r r rd tm tm tm tm tm
+Raio morte: a a a s s rd tm tm tm tm tm
+Raio fogo: a s s f f rd tm tm tm tm tm
+Tiro pedra de fogo: f f f d d rd tm tm tm ru
+Relâmpagos: a a a a a sd md su mu tm
