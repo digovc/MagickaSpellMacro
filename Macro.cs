@@ -190,6 +190,22 @@ namespace MagickaSpellMacro
 
             switch (strKey.ToLower())
             {
+                case "1":
+                    this.executarMagia(VirtualKeyCode.VK_1);
+                    return;
+
+                case "2":
+                    this.executarMagia(VirtualKeyCode.VK_2);
+                    return;
+
+                case "3":
+                    this.executarMagia(VirtualKeyCode.VK_3);
+                    return;
+
+                case "4":
+                    this.executarMagia(VirtualKeyCode.VK_4);
+                    return;
+
                 case "q":
                     this.executarMagia(VirtualKeyCode.VK_W);
                     return;
