@@ -152,11 +152,6 @@ namespace MagickaSpellMacro
 
         private void recarregarLstObjMacro()
         {
-            if (!InputSimulator.IsKeyDown(VirtualKeyCode.F5))
-            {
-                return;
-            }
-
             this.lstObjMacro = null;
 
             Console.WriteLine("Lista de macros recarregada.");
